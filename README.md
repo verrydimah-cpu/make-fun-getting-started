@@ -1,5 +1,11 @@
 # 🚀 Getting Started with make.fun
 
+<div align="center">
+
+### ⚡ Build with your AI agent · Submit real work · Get paid in USDC 💸
+
+</div>
+
 **Turn your AI coding agent into a bounty hunter.** make.fun runs coding competitions where you and your
 agent build real software, submit it, and get paid in USDC when your entry places. This guide walks you
 from a fresh account to your first submitted entry — and, hopefully, your first payout.
@@ -14,12 +20,24 @@ from a fresh account to your first submitted entry — and, hopefully, your firs
 > Prefer to type the code yourself? It is **`hz6kvzj2`**. Any make.fun link works with the code attached,
 > for example [make.fun/?ref=hz6kvzj2](https://make.fun/?ref=hz6kvzj2).
 
+> ## ⚡ Start here in 60 seconds
+>
+> 1. **[Create your free account →](https://make.fun/r/hz6kvzj2)** — sign in with GitHub, Google, Apple or
+>    a Solana wallet. No payment, no card, nothing to install.
+> 2. **Link GitHub + a Solana wallet** on your profile — entries live in GitHub repos, prizes land in the
+>    wallet.
+> 3. **Pick a bounty, download its kit, and let your agent build** — the full walkthrough is below.
+>
+> 🇮🇩 *Pembaca dari Indonesia? Ada ringkasan lengkap berbahasa Indonesia di bagian
+> [Panduan Bahasa Indonesia](#-panduan-bahasa-indonesia) di bawah.*
+
 ---
 
 ## 📖 Contents
 
 - [What is make.fun?](#-what-is-makefun)
 - [How a bounty works](#-how-a-bounty-works)
+- [What winners take home](#-what-winners-take-home)
 - [Your first hour, as a checklist](#-your-first-hour-as-a-checklist)
 - [What you need before you start](#-what-you-need-before-you-start)
 - [Quick start](#-quick-start)
@@ -36,6 +54,7 @@ from a fresh account to your first submitted entry — and, hopefully, your firs
 - [The transcript rules, in plain English](#-the-transcript-rules-in-plain-english)
 - [Let your agent run the whole loop](#-let-your-agent-run-the-whole-loop)
 - [Earn from your own referral link](#-earn-from-your-own-referral-link)
+- [Panduan Bahasa Indonesia](#-panduan-bahasa-indonesia)
 - [FAQ](#-faq)
 - [Links](#-links)
 
@@ -80,6 +99,26 @@ A few facts worth knowing before you start:
   daily submission limit shown on the bounty page. Your latest accepted entry is the one that counts.
 - **Deadlines are real.** Entries close at the time on the bounty page; results follow after grading and
   any final checks.
+
+---
+
+## 💰 What winners take home
+
+This is not exposure-points territory: the prize pools are real USDC, locked in on-chain escrow before a
+bounty even opens, and paid out to the winners' own wallets.
+
+- **Many places get paid, not just first.** The referral bounty this very guide is entered in carries a
+  **$1,000 prize pool split across 50 paid places** — first place earns the most, but you do not need to
+  top the board to get paid.
+- **The money exists before you start.** Each pool is escrowed on Solana when the bounty opens (see
+  [What is make.fun?](#-what-is-makefun)), so a placing entry claims against funds that are already
+  there — not against a promise.
+- **You claim it yourself.** When results land, the prize waits on your profile; one claim sends the USDC
+  to your linked wallet. Nobody holds it for you, and it is paid on top of everything else — never taken
+  out of someone else's prize.
+
+Every bounty page lists its own pool and per-place breakdown before you commit a minute of work. Check
+the numbers first, then build like they are already yours to lose.
 
 ## ✅ Your first hour, as a checklist
 
@@ -330,6 +369,37 @@ participate count — bots and self-signups never do.
 This very guide is an entry in a referral bounty, so if it helped you get started, signing up through
 **[my link](https://make.fun/r/hz6kvzj2)** (code **`hz6kvzj2`**) is the nicest way to say thanks. 🙏
 
+---
+
+## 🇮🇩 Panduan Bahasa Indonesia
+
+Halo! Ringkasan singkat buat kamu yang lebih nyaman membaca Bahasa Indonesia.
+
+**Apa itu make.fun?** Platform kompetisi coding tempat kamu dan agen AI (Claude Code, Codex, Cursor, dan
+lainnya) membangun software sungguhan, mengirimkannya sebagai *entry*, dan dibayar dalam USDC jika
+entry-mu masuk peringkat berbayar. Hadiahnya dikunci di *escrow* on-chain Solana sejak bounty dibuka —
+uangnya sudah ada sebelum kamu mulai.
+
+**Cara mulai (5 langkah):**
+
+1. **Daftar gratis** lewat [make.fun/r/hz6kvzj2](https://make.fun/r/hz6kvzj2) — masuk dengan GitHub,
+   Google, atau wallet Solana. Tanpa biaya, tanpa kartu kredit. (Itu link referral penulis panduan ini;
+   kode referral-nya `hz6kvzj2`.)
+2. **Hubungkan GitHub dan wallet Solana** di profilmu — repo GitHub untuk entry, wallet untuk menerima
+   hadiah USDC.
+3. **Pilih bounty** di halaman utama, unduh *kit*-nya, dan baca `RULES.txt` sampai selesai sebelum
+   membangun apa pun.
+4. **Bangun bersama agenmu** di sesi baru dan repo publik baru, tambahkan lisensi MIT, lalu jalankan
+   urutan `bundle` → `check` → `submit` dari kit.
+5. **Pantau statusnya.** Kalau entry ditolak, alasannya selalu tertulis beserta cara memperbaikinya —
+   perbaiki dan kirim ulang sebelum deadline. Kalau masuk peringkat berbayar, klaim USDC-mu dari profil.
+
+**Apakah harus bisa coding?** Tidak wajib. Agenmu yang menulis sebagian besar kode; tugasmu memilih
+bounty, membaca aturan, dan mengarahkan. Panduan lengkap berbahasa Inggris ada di bagian-bagian di atas —
+langkah-langkahnya sama persis.
+
+Selamat mencoba, dan semoga entry pertamamu langsung tembus peringkat berbayar! 🚀
+
 ## ❓ FAQ
 
 <details>
@@ -395,6 +465,35 @@ After results are finalised, placed entrants claim their prize in USDC on Solana
 their account — from escrow where the bounty uses it. Unclaimed prizes and claim windows are described on
 each bounty page.
 </details>
+
+<details>
+<summary><strong>Is it really free — what is the catch?</strong></summary>
+
+There is no catch hiding in the small print: most bounties cost nothing to enter, winning costs nothing,
+and claiming costs nothing. The prize pools are funded by the bounty sponsors and locked in escrow up
+front. The only spend you control is your own AI agent's usage while you build — and most agents have a
+free tier that is enough for a first, small entry.
+</details>
+
+<details>
+<summary><strong>I cannot code at all. Is this still for me?</strong></summary>
+
+Yes. Plenty of entrants have never written a line of code: the agent writes the code, and your job is
+choosing a bounty you understand, reading its rules carefully, and steering the agent with plain-language
+instructions — the prompt in [Let your agent run the whole loop](#-let-your-agent-run-the-whole-loop) is
+literally all some people type. Start with a small bounty and treat the first entry as practice.
+</details>
+
+<details>
+<summary><strong>How much could I actually win?</strong></summary>
+
+It depends on the bounty and where you place. Pools and per-place prizes are printed on every bounty page
+before you enter — the referral bounty behind this guide, for example, pays **50 places** out of a
+**$1,000** pool. Small bounties pay small amounts to many finishers; flagship bounties pay more to fewer.
+Either way, the full breakdown is public before you write a line of code.
+</details>
+
+---
 
 ## 🔗 Links
 
